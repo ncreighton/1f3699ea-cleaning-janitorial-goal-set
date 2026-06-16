@@ -1,2 +1,28 @@
-# 1f3699ea-cleaning-janitorial-goal-set
-Tired of reactive cleaning management where you're always putting out fires instead of growing your business? The Cleaning &amp; Janitorial Goal Setting and OKR Framework Notion Template helps you set measurable goals, align your team, and track progress—so you can focus on quality and expansion.  This template transforms vague intentions into concrete
+# Cleaning & Janitorial Goal Setting and OKR Framework Notion Template
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/5kQbJ1fXx5wg7BCavOd0j46)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/5kQbJ1fXx5wg7BCavOd0j46)
+
